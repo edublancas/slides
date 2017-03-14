@@ -25,7 +25,14 @@
    2. Análisis exploratorio de datos
       1. Histograma
    3. Estadística clásica
+      1. Estimaciones puntuales
+      2. Intervalos de confianza
+      3. Pruebas de hipótesis
+      4. Correlación y causalidad
    4. Estadística Bayesiana
+      1. Interpretación subjetiva de la probabilidad
+      2. Teorema de Bayes como herramienta de inferencia
+      3. Retos computacionales
    5. Aproximación de funciones (Elements of SL)
    6. Optimización
 5. Aprendizaje supervisado
@@ -58,3 +65,4 @@
     4. Hyperparameter optimization
     5. Selección de modelos
     6. The curse of dimensionality
+11. Hacia donde vamos (2017)
