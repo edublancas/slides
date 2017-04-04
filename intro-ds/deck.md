@@ -2,15 +2,19 @@
 
 ---
 
-# 1. Inteligencia Artificial
+# 1. Inteligencia Artificial (AI)
 
 ---
 
-# 1.1 Breve historia de la Inteligencia Artificial
+# 1.1 ¿Qué es Inteligencia Artificial?
 
 ---
 
-# 1.2 Límites de la Inteligencia Artificial simbólica
+# 1.2 Breve historia de la Inteligencia Artificial
+
+---
+
+# 1.3 Límites de la Inteligencia Artificial simbólica
 
 ---
 
