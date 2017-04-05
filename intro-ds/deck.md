@@ -2,6 +2,10 @@
 
 ---
 
+# Parte I: Introducción
+
+---
+
 # 1. Inteligencia Artificial (AI)
 
 ---
@@ -116,3 +120,59 @@ Fuente: Wikipedia
 # 4. Estadística Bayesiana
 
 ---
+
+# 4.1 Estadística Bayesiana
+
+* La Estadística Bayesiana es la otra gran corriente de la Estadística
+* La principal diferencia es que basa su noción de probabilidad como un **estado de información subjetivo** en vez de definirlo como frecuencia relativa
+* Se fundamenta en las leyes de la probabilidad y en la teoría de decisión
+* Debido a que sus fundamentos descansan en la teoría de la probabilidad provee una estructura coherente a los problemas estadísticos
+* La discusión sobre su uso ha sido objeto de *acalorados* debates por **siglos**
+
+---
+
+## Lectura recomendada
+
+*Malakoff, D. (1999). Bayes offers a 'new' way to make sense of numbers. Science, Vol. 286,  pp. 1460-1464.*
+
+---
+
+# 5. Machine Learning
+
+---
+
+# 5.1 Machine Learning (ML)
+
+* Machine Learning pretende dar a las computadoras la habilidad de **aprender** sin ser programadas explícitamente para ello (Arthur Samuel, 1959)
+* Específicamente se ocupa de la construcción de **algoritmos** que puedan aprender y hacer predicciones sobre los datos
+* Las herramientas empleadas en ML son básicamente herramientas estadísticas
+
+---
+
+# 5.2 Machine Learning vs. Estadística
+
+* Durante los 90, el campo de ML era criticado de ser un *re-branding* de la Estadística, pues su objetivo es básicamente el mismo: hacer inferencias a partir de datos
+* A pesar de que las herramientas se traslapan mucho entre un campo y otro la *filosofía* de los dos campos es muy diferente
+* Lo anterior se debe a que ML se *incubó* dentro de los departamentos de Ciencias de la Computación de las universidades *lejos* de la rígida estructura intelectual de la comunidad de la Estadística
+
+---
+
+# 5.3 Diferencias entre Machine Learning y Estadística
+
+* El énfasis de ML está en hacer buenas **predicciones** a partir de los datos (Ej: ¿cuál es la probabilidad de que esta imagen sea la de un perro?), por otro lado, la Estadística no hace un énfasis en la predicción, sino en un espectro de problemas más grande
+* En general ML trata problemas con **cantidades masivas** de datos, en Estadística los datos suelen ser escasos
+
+---
+
+## Lectura recomendada
+
+*Breiman, L. Statistical Modeling: The Two Cultures. Statistical Science, Vol. 16, No. 3 (Aug., 2001), pp. 199-215*
+
+
+---
+
+# 6. Data Science
+
+---
+
+# 6.1 Data Science
