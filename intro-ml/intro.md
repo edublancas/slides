@@ -176,3 +176,8 @@ Fuente: Wikipedia
 ---
 
 # 6.1 Data Science
+
+* Data Science es el *último chico cool en llegar al barrio* del análisis de datos
+* Pretende ser un *concepto unificador* de todos los métodos, campos y demás elementos relacionados con el fenómeno de los datos
+* Sus principales detractores afirma que solo es un *re-branding* de la Estadística que ya conocemos
+* Aún es muy pronto para saber si el término se consolidará o se unirá el club de *buzzwords* olvidadas como *Bussiness Analytics*, *Predictive Analytics*, *Knowledge Discovery in Databases*, entre otras
