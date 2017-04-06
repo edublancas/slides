@@ -93,9 +93,9 @@ Aprobar crédito si: $\sum_{i=1}^{d} w_ix_i > referencia$
 $$h(x) = \text{sign}(\sum_{i=1}^{d} w_ix_i - b)$$
 
 * Se aprueba el crédito si $h(x)= +1$
-	* Esto sucede cuando $\sum_{i=1}^{d} w_ix_i > b$
+ * Esto sucede cuando $\sum_{i=1}^{d} w_ix_i > b$
 * Se rechaza el crédito si $h(x)= -1$
-	* Esto sucede cuando $\sum_{i=1}^{d} w_ix_i < b$
+ * Esto sucede cuando $\sum_{i=1}^{d} w_ix_i < b$
 * A este modelo se le conoce como *perceptron*
 
 ---
@@ -116,7 +116,7 @@ $$h(x) = \text{sign}(\sum_{i=1}^{d} w_ix_i - b)$$
 
 # 1.2 Un modelo simple de aprendizaje (VI)
 
-* Encontrar los *mejores* valores de $w_i$ y $b$ se vuelve un problema de **optimización** (usualmente se hace con métodos iterativos)
+* Encontrar los *mejores* valores de $w_i$ y $b$ se vuelve un problema de **optimización** (usualmente se hace con métodos iterativos pues los modelos más complejos no tienen soluciones cerradas)
 * Una vez que encontramos los valores debemos preguntarnos, ¿este modelo será exitoso en clasificar nuevos datos **no** incluidos en los datos de entrenamiento? Esta es la pregunta clave en la **teoría de aprendizaje**
 
 ---
@@ -169,8 +169,8 @@ $$h(x) = \text{sign}(\sum_{i=1}^{d} w_ix_i - b)$$
 
 * Cuando el problema está bien definido y tenemos una idea de la forma de $f$ (nadie *cuerdo* usaría ML para "derivar" la ley de la gravitación universal)
 * Cuando no es posible recolectar una cantidad razonable de datos
-	* No datos = No aprendizaje
-	* ¿Qué es una cantidad razonable? Depende mucho del problema
+ * No datos = No aprendizaje
+ * ¿Qué es una cantidad razonable? Depende mucho del problema
 
 ---
 
