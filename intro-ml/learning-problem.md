@@ -121,6 +121,59 @@ $$h(x) = \text{sign}(\sum_{i=1}^{d} w_ix_i - b)$$
 
 ---
 
+# 1.3 Aprendizaje vs. Diseño
+
+---
+
+# 1.3 Aprendizaje vs. Diseño
+
+* Existen formas de resolver problemas similares sin recurrir a la técncia de *aprendizaje*
+* Una de ellas se conoce como *diseño* y es discutida de manera conjunta al *aprendizaje* en la literatura
+
+---
+
+
+# 1.3 Aprendizaje vs. Diseño (II)
+
+* Consideremos el problema de reconocer monedas de diferentes denominaciones a través de su tamaño y masa
+* En un enfoque de *aprendizaje* se nos da una muestra de monedas de de todas las denominaciones
+* Es natural encontrar variación entre monedas de la misma denominación (debido a imperfecciones en su manufactura y errores de medición)
+* Una vez que *entrenamos* un algoritmo, podemos recibir un nuevo punto y decidir a qué denominación pertenece
+
+---
+
+# 1.3 Aprendizaje vs. Diseño (III)
+
+* En el enfoque de *diseño* le pediríamos a Banco de México un documento con las especificaciones de tamaño y masa de las monedas (nota que en este caso no tenemos datos empíricos)
+* Después podríamos diseñar un modelo físico para tomar en cuenta las variaciones en las monedas debido a los errores de manufactura y medición
+* Con el modelo calculamos la distribución conjunta del tamaño y masa para cada denominación, usando la distribución calculamos un *clasificador óptimo*
+
+---
+
+# 1.3 Aprendizaje vs. Diseño (IV)
+
+* En el caso de diseño el problema está bien definido (debido a la especificación que tenemos) y se puede derivar **analíticamente** una $f$ sin necesidad de recolectar datos empíricos
+* En el enfoque de aprendizaje el problema está mucho menos definido y es necesario recolectar datos para aproximar $f$
+* Ambos enfoques son válidos en diferentes aplicaciones
+* **Opinión polémica** El enfoque de diseño está más relacionado con el área de Estadística
+
+---
+
+# 1.3 Aprendizaje vs. Diseño (V)
+
+![joint-dist](joint-dist.png)
+
+---
+
+# 1.4 Cuando *NO* usar Machine Learning
+
+* Cuando el problema está bien definido y tenemos una idea de la forma de $f$ (nadie *cuerdo* usaría ML para "derivar" la ley de la gravitación universal)
+* Cuando no es posible recolectar una cantidad razonable de datos
+	* No datos = No aprendizaje
+	* ¿Qué es una cantidad razonable? Depende mucho del problema
+
+---
+
 # 2. Tipos de aprendizaje
 
 ---
