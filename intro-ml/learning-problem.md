@@ -136,13 +136,19 @@ $$h(x) = \text{sign}(\sum_{i=1}^{d} w_ix_i - b)$$
 
 # 2.1 Aprendizaje Supervisado
 
-
-
 ---
 
 ![tweet](tweet.png)
 
 https://twitter.com/amyhoy/status/847097034536554497
+
+---
+
+## Lectura recomendada
+
+*Domingos, P. A Few Useful Things to Know about Machine Learning*
+
+https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
 
 ---
 
