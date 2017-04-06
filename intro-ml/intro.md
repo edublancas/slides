@@ -115,7 +115,18 @@ Fuente: Wikipedia
 
 ---
 
-# 3.2 Probabilidad y Estadística
+# 3.2 ¿Cómo expresamos matemáticamente la probabilidad de cierto evento?
+
+* Una de las formas de representar la probabilidad de distintos eventos es por medio de una **distribución de probabilidad**
+* Si queremos representar más de una variable usamos una **distribución conjunta**
+
+---
+
+# 3.2 ¿Cómo expresamos matemáticamente la probabilidad de cierto evento? (II)
+
+---
+
+# 3.3 Probabilidad y Estadística
 
 * La estadística hace una interpretación de probabilidad muy específico, visto desde un punto de vista **frecuentista**
 * Define la probabilidad de un evento como el **limite de su frecuencia relativa en un número grande de eventos**
@@ -126,7 +137,7 @@ Fuente: Wikipedia
 
 ---
 
-# 3.3 ¿Podemos hacer estadística con otra interpretación de la probabilidad?
+# 3.4 ¿Podemos hacer estadística con otra interpretación de la probabilidad?
 
 * Esta pregunta ha causado acaloradas discusiones desde hace siglos y durante mucho tiempo todo hiciera Estadística saliéndose de la *noción frecuentista* era duramente criticado
 * Sin embargo, en muchos problemas la noción de frecuencia **no es coherente**
