@@ -1,4 +1,13 @@
-# Inteligencia Artificial/Machine Learning/Data Science 101
+# Machine Learning 101
+
+---
+
+# Objetvos
+
+* Clarificar la terminología: Inteligencia Artificial, Machine Learning, Data Science, etc.
+* Desmitificar algunas creencias sobre el estado de la Inteligencia Artificial en 2017
+* Explicar la relación que existe entre Machine Learning y Estadística
+* Resumen de los conceptos más importantes en Machine Learning
 
 ---
 
