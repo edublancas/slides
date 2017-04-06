@@ -40,6 +40,14 @@
 * En la decada de los 90 la Inteligencia Artificial cambia completamente de un enfoque simbólico a un enfoque de uso de datos
 * O dicho de otra manera: **en los 90 la comunidad de AI descubrió la Estadística**
 
+---
+
+# 1.5 Inteligencia Artificial basada en aprendizaje
+
+* A lo que los medios se refieren por Inteligencia Artificial (al menos en 2017) es en realidad a un conjunto *muy* específico de técnicas de **análisis de datos**
+* En los últimos años, la técnica que más avances ha tenido ha sido lo que se conoce como **Deep Learning**, que sigue siendo un conjunto de técnicas de aprendizaje
+* La limitante actual de estos algoritmos es que son muy expecíficos, solo saben hacer una cosa (Ej: identificar elementos en una foto, comprender el lenguaje hablado, etc)
+
 
 ---
 
