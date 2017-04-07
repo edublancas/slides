@@ -20,7 +20,7 @@
 
 # 1. Formulación del problema (II)
 
-![movie-recommender](1.png)
+![movie-recommender](movie-recommender.png)
 
 ---
 
@@ -62,7 +62,7 @@ Donde $X$ es el espacio de entradas (todos los valores posibles que puede tomar 
 
 # 1.1 Componentes del problema de aprendizaje (IV)
 
-![learning-problem](2.png)
+![learning-problem](learning-problem.png)
 
 ---
 
