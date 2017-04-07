@@ -121,6 +121,14 @@ $$h(x) = \text{sign}(\sum_{i=1}^{d} w_ix_i - b)$$
 
 ---
 
+# 1.2 Un modelo simple de aprendizaje (VII)
+
+* El modelo anterior es muy sencillo pues su espacio de hipótesis solo puede separar linealmente (de hecho no puede resolver un XOR)
+* Los problemas que se resuelven con ML son muy complejos y multidimensionales por lo que necesitamos algoritmos más complejos para resolverlos
+
+
+---
+
 # 1.3 Aprendizaje vs. Diseño
 
 ---
