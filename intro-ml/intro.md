@@ -8,6 +8,7 @@
 * Desmitificar algunas creencias sobre el estado de la Inteligencia Artificial en 2017
 * Explicar la relación que existe entre Machine Learning y Estadística
 * Resumen de los conceptos más importantes en Machine Learning
+* Aplicar técnicas básicas de Machine Learning con Python
 
 ---
 
