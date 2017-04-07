@@ -182,6 +182,10 @@ $$h(x) = \text{sign}(\sum_{i=1}^{d} w_ix_i - b)$$
 
 ---
 
+Eso es todo por hoy.
+
+---
+
 # 2. Tipos de aprendizaje
 
 ---
