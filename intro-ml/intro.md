@@ -115,14 +115,35 @@ Fuente: Wikipedia
 
 ---
 
-# 3.2 ¿Cómo expresamos matemáticamente la probabilidad de cierto evento?
+# 3.2 Conceptos básicos de probabilidad
 
-* Una de las formas de representar la probabilidad de distintos eventos es por medio de una **distribución de probabilidad**
-* Si queremos representar más de una variable usamos una **distribución conjunta**
+* Una *variable aleatoria* es una cantidad cuyo valor es resultado de un proceso aleatorio
+* Podemos expresar la probabilidad de todos los posibles valores de una variable aleatoria a través de una **función de distribución**
+* Podemos expresar la probabilidad de más de una variable aleatoria por medio de una **distribución conjunta**
 
 ---
 
-# 3.2 ¿Cómo expresamos matemáticamente la probabilidad de cierto evento? (II)
+# 3.2 Conceptos básicos de probabilidad (II)
+
+![binomial](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Binomial_distribution_pmf.svg/640px-Binomial_distribution_pmf.svg.png)
+
+Fuente: Wikipedia
+
+---
+
+# 3.2 Conceptos básicos de probabilidad (III)
+
+![normal](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Normal_Distribution_PDF.svg/720px-Normal_Distribution_PDF.svg.png)
+
+Fuente: Wikipedia
+
+---
+
+# 3.2 Conceptos básicos de probabilidad (IV)
+
+![bivariate-normal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Multivariate_Gaussian.png/640px-Multivariate_Gaussian.png)
+
+Fuente: Wikipedia
 
 ---
 
