@@ -199,6 +199,7 @@ $$h(x) = \text{sign}(\sum_{i=1}^{d} w_ix_i - b)$$
 
 * Cuando los datos de entrenamiento contienen ejemplos explícitos de la salida dadas las entradas nos encontramos en el caso de aprendizaje supervisado
 * Se le llama supervisado en el sentido de que un *supervisor* ha determinado la salida correcta ($y$) para cada entrada ($x$)
+* Cuando las $y$ toman un conjunto finito de valores (ej: sí/no, azul/rojo/verde) estamos ante un problema de *clasificación*, cuando toma valores reales (ej: 3.14159) estamos ante un problema de *regresión*
 * La forma de cada dato es **(entrada, salida correcta)**
 
 ---
