@@ -182,10 +182,6 @@ $$h(x) = \text{sign}(\sum_{i=1}^{d} w_ix_i - b)$$
 
 ---
 
-Eso es todo por hoy.
-
----
-
 # 2. Tipos de aprendizaje
 
 ---
@@ -199,7 +195,44 @@ Eso es todo por hoy.
 
 ---
 
-# 2.1 Aprendizaje Supervisado
+# 2.1 Supervised Learning
+
+* Cuando los datos de entrenamiento contienen ejemplos explícitos de la salida dadas las entradas nos encontramos en el caso de aprendizaje supervisado
+* Se le llama supervisado en el sentido de que un *supervisor* ha determinado la salida correcta ($y$) para cada entrada ($x$)
+* La forma de cada dato es **(entrada, salida correcta)**
+
+---
+
+# 2.1 Supervised Learning (II)
+
+* Usualmente se tienen *datos históricos* que se usan para entrenar le algoritmo, sin embargo existen variaciones:
+	* *active learning*: cuando los datos se adquieren al hacerle preguntas (eligiendo una $x$) a un supervisor al momento de entrenar el algoritmo
+	* *online learning*: cuando los datos se proveen el algoritmo uno a la vez (ya sea para ir actualizando el modelo conforme se tienen nuevos datos o para facilitar el procesamiento)
+
+---
+
+# 2.2 Reinforcement Learning
+
+* Cuando los datos no tienen una salida específica dada una entrada, ya no estamos en el caso supervisado
+* Si los datos de entrada contienen una posible salida y una medida de qué tan buena o mala es la salida estamos en el caso de reinforcement learning
+* La forma de cada dato es **(entrada, una salida, medida para la salida)**
+* Este tipo de aprendizaje es útil para aprender cómo jugar en un ambiente donde se tiene la libertad de elegir diferentes opciones y se quiere identificar la mejor de todas
+
+---
+
+# 2.3 Unsupervised Learning
+
+* En el caso no supervisado, los datos de entrada no contienen información sobre la salida (no hay $y$)
+* Imaginemos que obtuviéramos los datos de las monedas pero no conociéramos la denominación de cada ejemplo
+* Podríamos usar un algoritmo no supervisado para agrupa dr las $x$ y encontrar así una estructura en los datos (podríamos probablemente encontrar el número de denominaciones en los datos)
+
+---
+
+# 2.3 Unsupervised Learning (II)
+
+* El aprendizaje no supervisado puede verse como la tarea de *encontrar patrones y estructura en los datos*
+* También puede ser visto como una forma de crear representaciones más complejas de los datos
+* Un análisis no supervisado puede servir como un paso previo a un aprendizaje supervisado o una técnica por separado
 
 ---
 
