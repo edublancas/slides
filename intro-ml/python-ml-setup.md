@@ -58,6 +58,16 @@ pip install jupyter
 
 ---
 
+# Instalando pandas
+
+Pandas es una librería para manipulación de datos, no es estrictamente necesaria para usar scikit-learn pero facilita el manejo de los datos
+
+```
+pip install pandas
+```
+
+---
+
 # Verificando instalación
 
 Para verificar que todo se instaló de manera correcta, corremos lo siguiente en una sesión de Python:
@@ -66,6 +76,7 @@ Para verificar que todo se instaló de manera correcta, corremos lo siguiente en
 ```
 import sklearn
 import matplotlib
+import pandas
 ```
 
 ---
